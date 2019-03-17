@@ -57,11 +57,12 @@ color: black;
 text-align: justify;
 text-justify: inter-word;
 text-indent: 60px;
+text-transform: capitalize;
 }.mission .miss h2{
     font-size: 44px;
     line-height: 54px;
     letter-spacing: 0px;
     margin-bottom: 16px;
     text-align: center;
-    text-transform: capitalize;
+
 }
