@@ -63,4 +63,5 @@ text-indent: 60px;
     letter-spacing: 0px;
     margin-bottom: 16px;
     text-align: center;
+    text-transform: capitalize;
 }
