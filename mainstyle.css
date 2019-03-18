@@ -1,6 +1,6 @@
 body {
     background: url('backg.jpg') no-repeat;
-    filter: blur(8px);
+
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     scroll-behavior: smooth;
