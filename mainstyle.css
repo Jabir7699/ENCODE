@@ -63,7 +63,7 @@ ul li:hover ul li {
     width: 100%;
     text-align: center;
     outline-style: double;
-    text-shadow: 6px 10px 5px black;
+    text-shadow: 6px 7px 5px black;
 }
 .inner{
     margin-bottom: 20px;
