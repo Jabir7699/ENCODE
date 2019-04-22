@@ -70,6 +70,7 @@ ul li:hover ul li {
     margin-bottom: 20px;
 }
 .inner p {
+    font-family:nosifer;
     margin-top: 0;
     margin-bottom: 40px;
     line-height: 28px;
